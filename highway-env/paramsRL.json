@@ -1,0 +1,23 @@
+{
+    "lanes_count": 3,
+    "vehicles_count": 10,
+    "initial_lane_id": 2,
+    "duration": 120, 
+    "ego_spacing": 0.7, 
+    "vehicles_density": 0.8,
+    "collision_reward": -1,  
+    "limit_speed": 30,
+    "initial_speed_ego": 30,
+    "High_Speed_Reward": 0.075,
+    "Speed_Reward": -0.5,
+    "Right_Overtaking_Reward": -0.9,
+    "Unsafe_Distance_Reward": -0.65,
+    "Right_Lane_Reward" : -0.075,
+    "Left_Overtaking_Reward" : 0.9,
+    "Long_Accel_Reward" : -0.1,
+    "Long_Decel_Reward" : -0.2,
+    "Hazardous_Lane_Change_Reward" : -0.65,
+    "Steering_Reward" : -0.02,
+    "SafeDistance" : 1 
+}
+

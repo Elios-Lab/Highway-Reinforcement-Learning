@@ -1,0 +1,20 @@
+{
+    "weight_crush": 15,
+    "weight_km": 15,
+    "weight_right_overtake": 11,
+    "weight_left_overtake": 12,
+    "weight_AVG_TTC": 5,
+    "weight_STD_TTC": 2,
+    "weight_AVG_DSL": 5,
+    "weight_STD_DSL": 2,
+    "weight_AVG_LOAF": 8,
+    "weight_number_lane_change": 5,
+    "weight_hazardous": 8,
+    "weight_AVG_ACC": 2,
+    "weight_STD_ACC": 2,
+    "weight_AVG_DEC": 2,
+    "weight_STD_DEC": 2,
+    "weight_AVG_STER": 2,
+    "weight_STD_STER": 2
+}
+

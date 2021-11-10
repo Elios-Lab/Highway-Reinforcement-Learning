@@ -1,0 +1,20 @@
+{
+    "max_crush": 0,
+    "max_km": 1.6,
+    "max_right_overtake": 1,
+    "max_left_overtake": 5,
+    "max_AVG_TTC": 3,
+    "max_STD_TTC": 1,
+    "max_AVG_DSL": 5,
+    "max_STD_DSL": 1,
+    "max_AVG_LOAF": 2,
+    "max_number_lane_change": 10,
+    "max_hazardous": 1,
+    "max_AVG_ACC": 0.5,
+    "max_STD_ACC": 1,
+    "max_AVG_DEC": 0.1,
+    "max_STD_DEC": 1,
+    "max_AVG_STER": 0.1,
+    "max_STD_STER": 1
+}
+

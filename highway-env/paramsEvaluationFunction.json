@@ -1,0 +1,20 @@
+{
+    "max_crush_per_h": 4,
+    "max_km_per_h": 100,
+    "max_right_overtake_per_h": 12,
+    "max_left_overtake_per_h": 350,
+    "max_AVG_TTC_per_h": 3,
+    "max_STD_TTC_per_h": 1,
+    "max_AVG_DSL_per_h": 5,
+    "max_STD_DSL_per_h": 1,
+    "max_AVG_LOAF_per_h": 2,
+    "max_number_lane_change_per_h": 700,
+    "max_hazardous_per_h": 10,
+    "max_AVG_ACC_per_h": 0.5,
+    "max_STD_ACC_per_h": 1,
+    "max_AVG_DEC_per_h": 0.1,
+    "max_STD_DEC_per_h": 1,
+    "max_AVG_STER_per_h": 0.1,
+    "max_STD_STER_per_h": 1
+}
+
